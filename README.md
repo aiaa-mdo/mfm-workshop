@@ -1,6 +1,8 @@
 ## 3rd AIAA Workshop on Multifidelity Methods for Design and Uncertainty Quantification
 
-June 7, 2026 | San Diego, CA, USA
+June 7, 2026 
+
+San Diego, CA, USA
 
 In conjunction with AIAA Aviation Forum 2026
 
