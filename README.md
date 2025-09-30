@@ -1,5 +1,3 @@
-# AIAA MDO TC Workshops on Multifidelity Methods
-
 ## 3rd AIAA Workshop on Multifidelity Methods for Design and Uncertainty Quantification
 
 June 7, 2026
