@@ -15,7 +15,7 @@ Multifidelity methods are a broad class of computational engineering methods tha
 **Sponsored by** the AIAA Multidisciplinary Design Optimization Technical Committee (MDO TC)
 
 **Organizing Committee**
-Prof. Douglas Allaire (Associate Professor, Texas A&M University)
-Prof. Elizabeth Qian (Assistant Professor, Georgia Tech)
-Dr. Michael Henson (Fellow, Lockheed Martin)
-Prof. Laura Mainini (Professor, Imperial College London)
+* Prof. Douglas Allaire (Associate Professor, Texas A&M University)
+* Prof. Elizabeth Qian (Assistant Professor, Georgia Tech)
+* Dr. Michael Henson (Fellow, Lockheed Martin)
+* Prof. Laura Mainini (Professor, Imperial College London)
