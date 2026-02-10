@@ -6,6 +6,8 @@ San Diego, CA, USA
 
 In conjunction with AIAA Aviation Forum 2026
 
+[Registration is open now!](https://aiaa.org/courses/aiaa-workshop-for-multifidelity-modeling-in-support-of-design-and-uncertainty-quantification/)
+
 ### Tentative Agenda
 
 | Time         |                                                                                                                                     | Speaker          |
