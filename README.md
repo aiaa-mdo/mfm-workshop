@@ -13,7 +13,7 @@ Multifidelity methods are a broad class of computational engineering methods tha
 
 ### Workshop Objectives
 
-A [tentative agenda](./agenda2026.html) is available.
+See the [agenda](./agenda2026.html) for talk/tutorial titles and abstracts, as well as speaker bios.
 
 * Dissemination of recent methods developments to the MDO practitioner community.
 * Discussion of challenges and opportunities to identify new collaborations and new research directions. 
