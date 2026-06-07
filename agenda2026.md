@@ -8,7 +8,7 @@ In conjunction with AIAA Aviation Forum 2026
 
 [Registration is open now!](https://aiaa.org/courses/aiaa-workshop-for-multifidelity-modeling-in-support-of-design-and-uncertainty-quantification/)
 
-### Tentative Agenda
+### Agenda
 
 | Time         |                                                                                                                                     | Speaker          |
 |:-------------|:------------------------------------------------------------------------------------------------------------------------------------|:-----------------|
@@ -91,3 +91,8 @@ Gaussian processes provide a powerful and flexible framework for modeling nonlin
 Dr. Qian is an Assistant Professor at Georgia Tech, jointly appointed in the School of Aerospace Engineering and the School of Computational Science and Engineering. Her interdisciplinary research develops new computational methods to enable engineering design and decision-making for complex systems. Her specialties are in developing efficient surrogate models through model reduction and scientific machine learning, and in developing multifidelity approaches to accelerate expensive computations in uncertainty quantification, optimization, and control. Previously, she was a von Karman Instructor at Caltech in the Department of Computing and Mathematical Sciences. She earned her PhD, SM, and SB degrees from the MIT Department of Aeronautics & Astronautics. Highlights of her awards and honors include the NSF CAREER and Air Force Office of Scientific Research Young Investigator Program awards, as well as a Caltech-wide teaching award from the undergraduate student body, the Fannie and John Hertz Foundation Fellowship, and a U.S. Fulbright Student grant. She currently holds a visiting faculty appointment as a Hans Fischer Fellow at the Technical University of Munich.
 
 [back to top](#top)
+
+### Materials
+
+* [Lecture 2 materials](https://github.com/Ahmed-Bayoumy/AIAA-WS2026-AIMDO)
+* [Lecture 4 slides](files-2026/mfm2026-jakeman.pdf)
