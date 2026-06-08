@@ -94,7 +94,8 @@ Dr. Qian is an Assistant Professor at Georgia Tech, jointly appointed in the Sch
 
 ### Materials
 
+* [Lecture 1 slides](files-2026/mfm2026-humble.pdf)
 * [Lecture 2 materials](https://github.com/Ahmed-Bayoumy/AIAA-WS2026-AIMDO)
 * [Lecture 3 slides](files-2026/mfm2026-rumpfkeil.pdf)
 * [Lecture 4 slides](files-2026/mfm2026-jakeman.pdf)
-* Lecture 5 [Notebook 1](https://colab.research.google.com/drive/1sdImAgfTZDykVECrm08xa2WRz4cO45gO/), [Notebook 2](https://colab.research.google.com/drive/1w16lDJFm3akfxKd7xbztvT740mTTQBWD)
+* Lecture 5: [slides](files-2026/mfm2026-qian.pdf), [Notebook 1](https://colab.research.google.com/drive/1sdImAgfTZDykVECrm08xa2WRz4cO45gO/), [Notebook 2](https://colab.research.google.com/drive/1w16lDJFm3akfxKd7xbztvT740mTTQBWD)
